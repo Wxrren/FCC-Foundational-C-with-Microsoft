@@ -14,19 +14,17 @@ Begin your journey by learning to write your first code using C#. Develop a stro
 
 1. Write Your First Code Using C#
 
-2. Write Your First C# Code
+2. Store and Retrieve Data Using Literal and Variable Values in C#
 
-3. Store and Retrieve Data Using Literal and Variable Values in C#
+3. Perform Basic String Formatting in C#
 
-4. Perform Basic String Formatting in C#
+4. Perform Basic Operations on Numbers in C#
 
-5. Perform Basic Operations on Numbers in C#
+5. Guided Project - Calculate and Print Student Grades
 
-6. Guided Project - Calculate and Print Student Grades
+6. Guided Project - Calculate Final GPA
 
-7. Guided Project - Calculate Final GPA
-
-8. Trophy - Write Your First Code Using C#
+7. Trophy - Write Your First Code Using C#
 
 # Project 2
 Create and Run Simple C# Console Applications
