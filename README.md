@@ -28,7 +28,7 @@ Begin your journey by learning to write your first code using C#. Develop a stro
 
 8. Trophy - Write Your First Code Using C#
 
-#Project 2
+# Project 2
 Create and Run Simple C# Console Applications
 Master the art of creating and running simple C# console applications. Dive into the world of console-based programming, where you will gain hands-on experience executing your code and seeing it in action.
 
