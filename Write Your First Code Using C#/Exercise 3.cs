@@ -1,3 +1,5 @@
+//All tasks completed on Microsoft Learn Compiler seperately. All tasks were then stored here to make it easier keeping these exercises I've worked on in one place and neat. The below isn't intended to be compiled as one big code as there are intentional errors here.
+
 // Task 1 - Hello world to console twice - add a new line and a new tab.
  Console.WriteLine("Hello\nWorld!");
  Console.WriteLine("Hello\tWorld!");
