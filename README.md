@@ -16,9 +16,9 @@ Begin your journey by learning to write your first code using C#. Develop a stro
 
 2. Store and Retrieve Data Using Literal and [Variable Values](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) in C#
 
-3. Perform Basic String Formatting in C#
+3. Perform Basic [String Formatting](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Write%20Your%20First%20Code%20Using%20C%23/Exercise%203.cs) in C#
 
-4. Perform Basic Operations on Numbers in C#
+4. Perform Basic [Operations on Numbers](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Write%20Your%20First%20Code%20Using%20C%23/Exercise%204.cs) in C#
 
 5. Guided Project - Calculate and Print Student Grades
 
