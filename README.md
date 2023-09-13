@@ -20,7 +20,7 @@ Begin your journey by learning to write your first code using C#. Develop a stro
 
 4. Perform Basic [Operations on Numbers](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Write%20Your%20First%20Code%20Using%20C%23/Exercise%204.cs) in C#
 
-5. Guided Project - Calculate and Print Student Grades
+5. Guided Project - [Calculate and Print Student Grades](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Write%20Your%20First%20Code%20Using%20C%23/Exercise5.cs)
 
 6. Guided Project - Calculate Final GPA
 
