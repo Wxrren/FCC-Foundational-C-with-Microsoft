@@ -31,7 +31,7 @@ Master the art of creating and running simple C# console applications. Dive into
 
 1. Create and Run Simple C# Console Applications
 
-2. Call Methods From the .NET Class Library Using C#
+2. Call Methods From the .NET Class Library [Using C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Create%20and%20Run%20Simple%20C%23%20Console%20Applications/Program.cs)
 
 3. Add Decision Logic to Your Code Using if, else, and else if statements in C#
 
