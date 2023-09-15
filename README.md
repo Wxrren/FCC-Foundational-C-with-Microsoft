@@ -24,7 +24,6 @@ Begin your journey by learning to write your first code using C#. Develop a stro
 
 6. Guided Project - [Calculate Final GPA](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Write%20Your%20First%20Code%20Using%20C%23/Exercise%206.cs)
 
-7. Trophy - Write Your First Code Using C#
 
 # Project 2
 Create and Run Simple C# Console Applications
@@ -32,21 +31,18 @@ Master the art of creating and running simple C# console applications. Dive into
 
 1. Create and Run Simple C# Console Applications
 
-2. Install and Configure Visual Studio Code
+2. Call Methods From the .NET Class Library Using C#
 
-3. Call Methods From the .NET Class Library Using C#
+3. Add Decision Logic to Your Code Using if, else, and else if statements in C#
 
-4. Add Decision Logic to Your Code Using if, else, and else if statements in C#
+4. Store and Iterate Through Sequences of Data Using Arrays and the foreach Statement in C#
 
-5. Store and Iterate Through Sequences of Data Using Arrays and the foreach Statement in C#
+5. Create Readable Code with Conventions, Whitespace, and Comments in C#
 
-6. Create Readable Code with Conventions, Whitespace, and Comments in C#
+6. Guided Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
 
- 7. Guided Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
+7. Challenge Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
 
-8. Challenge Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
-
-9. Trophy - Create and Run Simple C# Console Applications
 
 # Project 3
 Add Logic to C# Console Applications
@@ -65,8 +61,6 @@ Unlock the power of logic in C# console applications. Learn how to add logic and
 7. Guided Project - Develop Conditional Branching and Looping Structures in C#
 
 8. Challenge Project - Develop Branching and Looping Structures in C#
-
-9. Trophy - Add Logic to C# Console Applications
 
 # Project 4
 
@@ -87,8 +81,6 @@ Discover the versatility of variable data in C# console applications. Harness th
 
 7. Challenge Project - Work with Variable Data in C#
 
-8. Trophy - Work with Variable Data in C# Console Applications
-
 # Project 5
 
 Create Methods in C# Console Applications
@@ -103,8 +95,6 @@ Take your C# console applications to the next level by mastering the art of crea
 4. Guided Project - Plan a Petting Zoo Visit
 
 5. Challenge Project - Create a Mini-Game
-
-6. Trophy - Create Methods in C# Console Applications
 
 # Project 6
 
@@ -123,7 +113,6 @@ Sharpen your troubleshooting skills as you dive into the world of debugging C# c
 
 6. Challenge Project - Debug a C# Console Application Using Visual Studio Code
 
-7. Trophy - Debug C# Console Applications
 
 # EXAM
 
