@@ -33,7 +33,7 @@ Master the art of creating and running simple C# console applications. Dive into
 
 2. Call Methods From the .NET Class Library [Using C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Create%20and%20Run%20Simple%20C%23%20Console%20Applications/Call%20Methods%20From%20the%20.NET%20Class%20Library%20Using%20C%23.cs)
 
-3. Add Decision Logic to Your Code Using if, else, and else if statements [in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Create%20and%20Run%20Simple%20C%23%20Console%20Applications/Program.cs)
+3. Add Decision Logic to Your Code Using if, else, and else if statements [in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Create%20and%20Run%20Simple%20C%23%20Console%20Applications/Add%20Decision%20Logic%20to%20Your%20Code%20Using%20if%2C%20else%2C%20and%20else%20if%20statements%20in%20C%23.cs)
 
 4. Store and Iterate Through Sequences of Data Using Arrays and the foreach Statement in C#
 
