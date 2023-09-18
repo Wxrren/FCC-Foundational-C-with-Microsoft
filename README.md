@@ -35,9 +35,9 @@ Master the art of creating and running simple C# console applications. Dive into
 
 3. Add Decision Logic to Your Code Using if, else, and else if statements [in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Create%20and%20Run%20Simple%20C%23%20Console%20Applications/Add%20Decision%20Logic%20to%20Your%20Code%20Using%20if%2C%20else%2C%20and%20else%20if%20statements%20in%20C%23.cs)
 
-4. Store and Iterate Through Sequences of Data Using Arrays and the foreach Statement in C#
+4. Store and Iterate Through Sequences of Data Using Arrays and the foreach Statement [in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Create%20and%20Run%20Simple%20C%23%20Console%20Applications/Data%20Arrays%20%26%20foreach.cs)
 
-5. Create Readable Code with Conventions, Whitespace, and Comments in C#
+5. Create Readable Code with Conventions, Whitespace, and Comments [in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Create%20and%20Run%20Simple%20C%23%20Console%20Applications/Code%20Conventions.cs)
 
 6. Guided Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
 
