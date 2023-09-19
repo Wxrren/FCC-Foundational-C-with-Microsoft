@@ -14,11 +14,11 @@ Begin your journey by learning to write your first code using C#. Develop a stro
 
 1. [Write Your First Code Using C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Write%20Your%20First%20Code%20Using%20C%23/Exercise%201%20Write%20Your%20First%20C%23%20Code.cs)
 
-2. [Store and Retrieve Data Using Literal and Variable Values](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) in C#
+2. [Store and Retrieve Data Using Literal and Variable Values in C#](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
 
-3. [Perform Basic String Formatting](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Write%20Your%20First%20Code%20Using%20C%23/Exercise%203.cs) in C#
+3. [Perform Basic String Formatting in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Write%20Your%20First%20Code%20Using%20C%23/Exercise%203.cs)
 
-4. [Perform Basic Operations on Numbers](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Write%20Your%20First%20Code%20Using%20C%23/Exercise%204.cs) in C#
+4. [Perform Basic Operations on Numbers in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Write%20Your%20First%20Code%20Using%20C%23/Exercise%204.cs)
 
 5. [Guided Project - Calculate and Print Student Grades](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Write%20Your%20First%20Code%20Using%20C%23/Exercise5.cs)
 
