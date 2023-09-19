@@ -12,36 +12,34 @@ Write Your First Code Using C#
 Begin your journey by learning to write your first code using C#. Develop a strong foundation as you explore the fundamentals and syntax of the language, setting the stage for your programming adventures.
 
 
-1. Write Your First Code [Using C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Write%20Your%20First%20Code%20Using%20C%23/Exercise%201%20Write%20Your%20First%20C%23%20Code.cs)
+1. [Write Your First Code Using C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Write%20Your%20First%20Code%20Using%20C%23/Exercise%201%20Write%20Your%20First%20C%23%20Code.cs)
 
-2. Store and Retrieve Data Using Literal and [Variable Values](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) in C#
+2. [Store and Retrieve Data Using Literal and Variable Values](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) in C#
 
-3. Perform Basic [String Formatting](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Write%20Your%20First%20Code%20Using%20C%23/Exercise%203.cs) in C#
+3. [Perform Basic String Formatting](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Write%20Your%20First%20Code%20Using%20C%23/Exercise%203.cs) in C#
 
-4. Perform Basic [Operations on Numbers](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Write%20Your%20First%20Code%20Using%20C%23/Exercise%204.cs) in C#
+4. [Perform Basic Operations on Numbers](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Write%20Your%20First%20Code%20Using%20C%23/Exercise%204.cs) in C#
 
-5. Guided Project - [Calculate and Print Student Grades](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Write%20Your%20First%20Code%20Using%20C%23/Exercise5.cs)
+5. [Guided Project - Calculate and Print Student Grades](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Write%20Your%20First%20Code%20Using%20C%23/Exercise5.cs)
 
-6. Guided Project - [Calculate Final GPA](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Write%20Your%20First%20Code%20Using%20C%23/Exercise%206.cs)
+6. [Guided Project - Calculate Final GPA](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Write%20Your%20First%20Code%20Using%20C%23/Exercise%206.cs)
 
 
 # Project 2
 Create and Run Simple C# Console Applications
 Master the art of creating and running simple C# console applications. Dive into the world of console-based programming, where you will gain hands-on experience executing your code and seeing it in action.
 
-1. Create and Run Simple C# Console Applications
+1. [Call Methods From the .NET Class Library Using C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Create%20and%20Run%20Simple%20C%23%20Console%20Applications/Call%20Methods%20From%20the%20.NET%20Class%20Library%20Using%20C%23.cs)
 
-2. Call Methods From the .NET Class Library [Using C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Create%20and%20Run%20Simple%20C%23%20Console%20Applications/Call%20Methods%20From%20the%20.NET%20Class%20Library%20Using%20C%23.cs)
+2. [Add Decision Logic to Your Code Using if, else, and else if statements in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Create%20and%20Run%20Simple%20C%23%20Console%20Applications/Add%20Decision%20Logic%20to%20Your%20Code%20Using%20if%2C%20else%2C%20and%20else%20if%20statements%20in%20C%23.cs)
 
-3. Add Decision Logic to Your Code Using if, else, and else if statements [in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Create%20and%20Run%20Simple%20C%23%20Console%20Applications/Add%20Decision%20Logic%20to%20Your%20Code%20Using%20if%2C%20else%2C%20and%20else%20if%20statements%20in%20C%23.cs)
+3. [Store and Iterate Through Sequences of Data Using Arrays and the foreach Statement in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Create%20and%20Run%20Simple%20C%23%20Console%20Applications/Data%20Arrays%20%26%20foreach.cs)
 
-4. Store and Iterate Through Sequences of Data Using Arrays and the foreach Statement [in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Create%20and%20Run%20Simple%20C%23%20Console%20Applications/Data%20Arrays%20%26%20foreach.cs)
+4. [Create Readable Code with Conventions, Whitespace, and Comments in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Create%20and%20Run%20Simple%20C%23%20Console%20Applications/Code%20Conventions.cs)
 
-5. Create Readable Code with Conventions, Whitespace, and Comments [in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Create%20and%20Run%20Simple%20C%23%20Console%20Applications/Code%20Conventions.cs)
+5. [Guided Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Create%20and%20Run%20Simple%20C%23%20Console%20Applications/Develop%20foreach%20and%20if-elseif-else%20Structures%20to%20Process%20Array%20Data%20in%20C%23.cs)
 
-6. Guided Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
-
-7. Challenge Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
+6. Challenge Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
 
 
 # Project 3
