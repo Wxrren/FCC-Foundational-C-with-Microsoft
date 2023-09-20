@@ -46,7 +46,7 @@ Master the art of creating and running simple C# console applications. Dive into
 Add Logic to C# Console Applications
 Unlock the power of logic in C# console applications. Learn how to add logic and decision-making capabilities to your code, enabling your applications to make dynamic choices and respond intelligently to different scenarios.
 
-1. Evaluate Boolean Expressions to Make Decisions in C#
+1. [Evaluate Boolean Expressions to Make Decisions in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Add%20Logic%20to%20C%23%20Console%20Applications/Exercise%201.cs)
 
 2. Control Variable Scope and Logic Using Code Blocks in C#
 
