@@ -39,7 +39,7 @@ Master the art of creating and running simple C# console applications. Dive into
 
 5. [Guided Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Create%20and%20Run%20Simple%20C%23%20Console%20Applications/Develop%20foreach%20and%20if-elseif-else%20Structures%20to%20Process%20Array%20Data%20in%20C%23.cs)
 
-6. Challenge Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
+6. [Challenge Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Create%20and%20Run%20Simple%20C%23%20Console%20Applications/Challenge%20project.cs)
 
 
 # Project 3
