@@ -50,7 +50,7 @@ Unlock the power of logic in C# console applications. Learn how to add logic and
 
 2. [Control Variable Scope and Logic Using Code Blocks in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Add%20Logic%20to%20C%23%20Console%20Applications/Exercise%202.cs)
 
-3. Branch the Flow of Code Using the switch-case Construct in C#
+3. [Branch the Flow of Code Using the switch-case Construct in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Add%20Logic%20to%20C%23%20Console%20Applications/Exercise%203.cs)
 
 4. Iterate Through a Code Block Using the for Statement in C#
 
