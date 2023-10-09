@@ -52,13 +52,13 @@ Unlock the power of logic in C# console applications. Learn how to add logic and
 
 3. [Branch the Flow of Code Using the switch-case Construct in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Add%20Logic%20to%20C%23%20Console%20Applications/Exercise%203.cs)
 
-4. Iterate Through a Code Block Using the for Statement in C#
+4. [Iterate Through a Code Block Using the for Statement in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Add%20Logic%20to%20C%23%20Console%20Applications/Exercise%204.cs)
 
-5. Add Looping Logic to Your Code Using the do-while and while Statements in C#
+5. [Add Looping Logic to Your Code Using the do-while and while Statements in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Add%20Logic%20to%20C%23%20Console%20Applications/Exercise%205.cs)
 
-7. Guided Project - Develop Conditional Branching and Looping Structures in C#
+7. [Guided Project - Develop Conditional Branching and Looping Structures in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Add%20Logic%20to%20C%23%20Console%20Applications/Exercise%206.cs)
 
-8. Challenge Project - Develop Branching and Looping Structures in C#
+8. [Challenge Project - Develop Branching and Looping Structures in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Add%20Logic%20to%20C%23%20Console%20Applications/Exercise%207.cs)
 
 # Project 4
 
