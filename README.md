@@ -65,13 +65,13 @@ Unlock the power of logic in C# console applications. Learn how to add logic and
 Work with Variable Data in C# Console Applications
 Discover the versatility of variable data in C# console applications. Harness the ability to store and manipulate different types of data, such as numbers and text, as you delve into the essential concepts of variables and data handling.
 
-1. Choose the Correct Data Type in Your C# Code
+1. [Choose the Correct Data Type in Your C# Code](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Work%20with%20Variable%20Data%20in%20C%23%20Console%20Applications/Exercise%201.cs)
 
-2. Convert Data Types Using Casting and Conversion Techniques in C#
+2. [Convert Data Types Using Casting and Conversion Techniques in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Work%20with%20Variable%20Data%20in%20C%23%20Console%20Applications/Exercise%202.cs)
 
-3. Perform Operations on Arrays Using Helper Methods in C#
+3. [Perform Operations on Arrays Using Helper Methods in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Work%20with%20Variable%20Data%20in%20C%23%20Console%20Applications/Exercise%203.cs)
 
-4. Format Alphanumeric Data for Presentation in C#
+4. [Format Alphanumeric Data for Presentation in C#](https://github.com/Wxrren/FCC-Foundational-C-with-Microsoft/blob/main/Work%20with%20Variable%20Data%20in%20C%23%20Console%20Applications/Exercise%204.cs)
 
 5. Modify the Content of Strings Using Built-In String Data Type Methods in C#
 
